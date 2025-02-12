@@ -211,8 +211,10 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - NASA APIs for providing space data
 - All contributors who participate in this project
 
-## Coverage
-<img width="689" alt="image" src="https://github.com/user-attachments/assets/b02341e2-e6ae-4d69-be05-3891c6cb4e0d" />
+## Contact
 
 Project Link: [repository-url]
 ```
+
+## Coverage
+<img width="689" alt="image" src="https://github.com/user-attachments/assets/87261830-6897-4d86-83bd-e89b9489781c" />
